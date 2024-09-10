@@ -1,0 +1,17 @@
+
+
+(a)
+Velocidade combinada: 90 km/h (carro) + 80 km/h (caminhão) = 170 km/h.
+Distância total: 125 km.
+Tempo = 125/170 = 0,735 horas
+Distância percorrida pelo carro = 90 / h * 0,735 = 66,15km
+Distância percorrida pelo caminhão =  80 / h * 0,735 = 58,8km
+Resposta: Estão na mesma distancia
+
+(B)
+Carro atrasado por 0,25 horas = 15min = 0,735 - 0,25 = 0,485
+Distância percorrida pelo carro = 90 km/h×0,485 horas ≈ 43,65 km
+Distância percorrida pelo caminhão =  80 km/h×0,735 horas≈58,8 km
+Respsota: O caminhão está mais proximo
+
+
